@@ -2,8 +2,9 @@
   "name": "filemanager",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "app.mjs",
   "scripts": {
-    "start": "node app.mjs"
+    "start": "node app.mjs --username=testUser"
   }
 }
